@@ -1,2 +1,2 @@
-# Simple-DEVOPS-Projects
+# DEVOPS-Projects
 DEVOPS DEMO
